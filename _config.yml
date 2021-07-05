@@ -1,0 +1,46 @@
+# Site/SEO settings
+email: info@kinlane.com
+baseurl: http://kinlane.com
+paginate: 12
+paginate_path: "/page/:num"
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Kin Lane
+title: Kin Lane
+description: >
+  My personal blog and storytelling platform.
+url: http://kinlane.com
+twitter_username: kinlane
+default_img: /assets/images/seo.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/kinlane
+  - name: instagram
+    url: https://www.instagram.com/kinlane/
+  - name: linkedin
+    url: https://www.linkedin.com/in/kinlane/
+  - name: github
+    url: https://github.com/kinlane
+
+# Author settings
+author:
+  - name: Kin Lane
+    bio: I am a writer, photographer, storyteller, and recovering technologist.
+    url: http://kinlane.com
+
+# Build settings
+markdown: kramdown
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
