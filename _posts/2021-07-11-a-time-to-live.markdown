@@ -5,7 +5,7 @@ title: A Time to Live
 date: 2021-07-11T12:00:00.000Z
 tags:
   - Kin Lane
-image: http://dronerecovery.org/img/strawberry-hill/strawberry-hill-side.jpeg
+image: https://kinlane-productions2.s3.amazonaws.com/strawberry-hill-side.jpeg
 ---
 What an emotional week. Sunday through Saturday of the previous week was the first major trip out into the world where we took care of some important life events while also breaking free of the clutches of the pandemic for just a little while. Our travels took us up Interstate 5 through Oregon to Portland for a memorial for the kid with family and friends, over to the coast to spread his ashes where his dad’ were also spread, then back down to southern Oregon for the funeral of one of my closest friends, then spent some time with my sisters, and then back home by the Fourth of July. Making for a whirlwind tour of emotions and experiences that I needed to spend a little time here on the blog getting sorted out.
 
