@@ -5,7 +5,7 @@ title: Having Empathy
 date: 2021-09-05T12:00:00.000Z
 tags:
   - Kin Lane
-image: https://kinlane-productions2.s3.amazonaws.com/strawberry-hill-side.jpeg
+image: https://pbs.twimg.com/media/EaXnIoQU0AAWhCG.jpg
 ---
 I have been captivated by Audrey talking about how we learn empathy as children by reading stories and having stories read to us. Something she learned about while reading Proust and the Squid: The Story and Science of the Reading Brain by by Maryanne Wolf. It is a thought that has dominated my thinking since she shared it with me, and is coloring how I see people in my life in new ways, while also bringing me back to my own writing, so that I can strengthen my empathy and awareness of people in the world around me in new and meaningful ways. It is the new dividing line for me regarding whether or not someone is a caring and compassionate individual, or whether they are self-centered, scared, and angry at the world—-whether or not they read stories, or had stories read to them a small child.
 
